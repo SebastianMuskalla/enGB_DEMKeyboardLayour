@@ -25,7 +25,7 @@ The **AltGr+Shift layer** (can be accessed with *Alt+Ctrl+Shift* on keyboards th
 * Some capital Greek letters: Σ Π Δ Ξ
 * Various other symbols: ° ≈ ≡ ‹ › ‚ ‘ ’
 
-For more information on which symbol is mapped to which key, see the [Images](#images) and [Tables](#tables) below.
+For more information on which symbol is mapped to which key, see the [images](#images) and [tables](#tables) below.
 
 
 
@@ -154,110 +154,110 @@ Tables
 
 ### Base layer (no modifier)
 
-| Key | Symbol | Number | Unicode name         | Note      |
-|-----|--------|--------|----------------------|-----------|
-| 1   | 1      | U+0031 | Digit One            |           |
-| 2   | 2      | U+0032 | Digit Two            |           |
-| 3   | 3      | U+0033 | Digit Three          |           |
-| 4   | 4      | U+0034 | Digit Four           |           |
-| 5   | 5      | U+0035 | Digit Five           |           |
-| 6   | 6      | U+0036 | Digit Six            |           |
-| 7   | 7      | U+0037 | Digit Seven          |           |
-| 8   | 8      | U+0038 | Digit Eight          |           |
-| 9   | 9      | U+0039 | Digit Nine           |           |
-| 0   | 0      | U+0030 | Digit Zero           |           |
-| Q   | q      | U+0071 | Latin Small Letter Q |           |
-| W   | w      | U+0077 | Latin Small Letter W |           |
-| E   | e      | U+0065 | Latin Small Letter E |           |
-| R   | r      | U+0072 | Latin Small Letter R |           |
-| T   | t      | U+0074 | Latin Small Letter T |           |
-| Y   | y      | U+0079 | Latin Small Letter Y |           |
-| U   | u      | U+0075 | Latin Small Letter U |           |
-| I   | i      | U+0069 | Latin Small Letter I |           |
-| O   | o      | U+006F | Latin Small Letter O |           |
-| P   | p      | U+0070 | Latin Small Letter P |           |
-| A   | a      | U+0061 | Latin Small Letter A |           |
-| S   | s      | U+0073 | Latin Small Letter S |           |
-| D   | d      | U+0064 | Latin Small Letter D |           |
-| F   | f      | U+0066 | Latin Small Letter F |           |
-| G   | g      | U+0067 | Latin Small Letter G |           |
-| H   | h      | U+0068 | Latin Small Letter H |           |
-| J   | j      | U+006A | Latin Small Letter J |           |
-| K   | k      | U+006B | Latin Small Letter K |           |
-| L   | l      | U+006C | Latin Small Letter L |           |
-| Z   | z      | U+007A | Latin Small Letter Z |           |
-| X   | x      | U+0078 | Latin Small Letter X |           |
-| C   | c      | U+0063 | Latin Small Letter C |           |
-| V   | v      | U+0076 | Latin Small Letter V |           |
-| B   | b      | U+0062 | Latin Small Letter B |           |
-| N   | n      | U+006E | Latin Small Letter N |           |
-| M   | m      | U+006D | Latin Small Letter M |           |
-|\`¬¦ |\`      | U+0060 | Grave Accent         | Backtick  |
-|`-_` | -      | U+002D | Hyphen-Minus         |           |
-|`=+` | =      | U+003D | Equals Sign          |           |
-|`[{` | [      | U+005B | Left Square Bracket  |           |
-|`]}` | ]      | U+005D | Right Square Bracket |           |
-|`;:` | ;      | U+003B | Semicolon            |           |
+| Key | Symbol | Number | Unicode name         | Note                          |
+|-----|--------|--------|----------------------|-------------------------------|
+| 1   | 1      | U+0031 | Digit One            |                               |
+| 2   | 2      | U+0032 | Digit Two            |                               |
+| 3   | 3      | U+0033 | Digit Three          |                               |
+| 4   | 4      | U+0034 | Digit Four           |                               |
+| 5   | 5      | U+0035 | Digit Five           |                               |
+| 6   | 6      | U+0036 | Digit Six            |                               |
+| 7   | 7      | U+0037 | Digit Seven          |                               |
+| 8   | 8      | U+0038 | Digit Eight          |                               |
+| 9   | 9      | U+0039 | Digit Nine           |                               |
+| 0   | 0      | U+0030 | Digit Zero           |                               |
+| Q   | q      | U+0071 | Latin Small Letter Q |                               |
+| W   | w      | U+0077 | Latin Small Letter W |                               |
+| E   | e      | U+0065 | Latin Small Letter E |                               |
+| R   | r      | U+0072 | Latin Small Letter R |                               |
+| T   | t      | U+0074 | Latin Small Letter T |                               |
+| Y   | y      | U+0079 | Latin Small Letter Y |                               |
+| U   | u      | U+0075 | Latin Small Letter U |                               |
+| I   | i      | U+0069 | Latin Small Letter I |                               |
+| O   | o      | U+006F | Latin Small Letter O |                               |
+| P   | p      | U+0070 | Latin Small Letter P |                               |
+| A   | a      | U+0061 | Latin Small Letter A |                               |
+| S   | s      | U+0073 | Latin Small Letter S |                               |
+| D   | d      | U+0064 | Latin Small Letter D |                               |
+| F   | f      | U+0066 | Latin Small Letter F |                               |
+| G   | g      | U+0067 | Latin Small Letter G |                               |
+| H   | h      | U+0068 | Latin Small Letter H |                               |
+| J   | j      | U+006A | Latin Small Letter J |                               |
+| K   | k      | U+006B | Latin Small Letter K |                               |
+| L   | l      | U+006C | Latin Small Letter L |                               |
+| Z   | z      | U+007A | Latin Small Letter Z |                               |
+| X   | x      | U+0078 | Latin Small Letter X |                               |
+| C   | c      | U+0063 | Latin Small Letter C |                               |
+| V   | v      | U+0076 | Latin Small Letter V |                               |
+| B   | b      | U+0062 | Latin Small Letter B |                               |
+| N   | n      | U+006E | Latin Small Letter N |                               |
+| M   | m      | U+006D | Latin Small Letter M |                               |
+|\`¬¦ |\`      | U+0060 | Grave Accent         | Backtick                      |
+|`-_` | -      | U+002D | Hyphen-Minus         |                               |
+|`=+` | =      | U+003D | Equals Sign          |                               |
+|`[{` | [      | U+005B | Left Square Bracket  |                               |
+|`]}` | ]      | U+005D | Right Square Bracket |                               |
+|`;:` | ;      | U+003B | Semicolon            |                               |
 |`'@` | '      | U+0027 | Apostrophe           | This is not \` or ´ or ‘ or ’ |
-|`#~` | #      | U+0023 | Number Sign          | Hashtag   |
-|`\\|`| \\     | U+005C | Reverse Solidus      | Backslash |
-|`,<` | ,      | U+002C | Comma                |           |
-|`.>` | .      | U+002E | Full Stop            | Period    |
-|`/?` | /      | U+002F | Solidus              | Slash     |
+|`#~` | #      | U+0023 | Number Sign          | Hashtag                       |
+|`\\|`| \\     | U+005C | Reverse Solidus      | Backslash                     |
+|`,<` | ,      | U+002C | Comma                |                               |
+|`.>` | .      | U+002E | Full Stop            | Period                        |
+|`/?` | /      | U+002F | Solidus              | Slash                         |
 
 
 ### Shift layer
 
-| Key | Symbol | Number | Unicode name           | Note       |
-|-----|--------|--------|------------------------|------------|
-| 1   | !      | U+0021 | Exclamation Mark       |            |
+| Key | Symbol | Number | Unicode name           | Note               |
+|-----|--------|--------|------------------------|--------------------|
+| 1   | !      | U+0021 | Exclamation Mark       |                    |
 | 2   | "      | U+0022 | Quotation Mark         | This is not “ or ” |
-| 3   | £      | U+00A3 | Pound Sign             |            |
-| 4   | $      | U+0024 | Dollar Sign            |            |
-| 5   | %      | U+0025 | Percent Sign           |            |
-| 6   | ^      | U+005E | Circumflex Accent      |            |
-| 7   | &      | U+0026 | Ampersand              |            |
-| 8   | *      | U+002A | Asterisk               |            |
-| 9   | (      | U+0028 | Left Parenthesis       |            |
-| 0   | )      | U+0029 | Right Parenthesis      |            |
-| Q   | Q      | U+0051 | Latin Capital Letter Q |            |
-| W   | W      | U+0057 | Latin Capital Letter W |            |
-| E   | E      | U+0045 | Latin Capital Letter E |            |
-| R   | R      | U+0052 | Latin Capital Letter R |            |
-| T   | T      | U+0054 | Latin Capital Letter T |            |
-| Y   | Y      | U+0059 | Latin Capital Letter Y |            |
-| U   | U      | U+0055 | Latin Capital Letter U |            |
-| I   | I      | U+0049 | Latin Capital Letter I |            |
-| O   | O      | U+004F | Latin Capital Letter O |            |
-| P   | P      | U+0050 | Latin Capital Letter P |            |
-| A   | A      | U+0041 | Latin Capital Letter A |            |
-| S   | S      | U+0053 | Latin Capital Letter S |            |
-| D   | D      | U+0044 | Latin Capital Letter D |            |
-| F   | F      | U+0046 | Latin Capital Letter F |            |
-| G   | G      | U+0047 | Latin Capital Letter G |            |
-| H   | H      | U+0048 | Latin Capital Letter H |            |
-| J   | J      | U+004A | Latin Capital Letter J |            |
-| K   | K      | U+004B | Latin Capital Letter K |            |
-| L   | L      | U+004C | Latin Capital Letter L |            |
-| Z   | Z      | U+005A | Latin Capital Letter Z |            |
-| X   | X      | U+0058 | Latin Capital Letter X |            |
-| C   | C      | U+0043 | Latin Capital Letter C |            |
-| V   | V      | U+0056 | Latin Capital Letter V |            |
-| B   | B      | U+0042 | Latin Capital Letter B |            |
-| N   | N      | U+004E | Latin Capital Letter N |            |
-| M   | M      | U+004D | Latin Capital Letter M |            |
-|\`¬¦ | ¬      | U+00AC | Not Sign               |            |
-|`-_` | _      | U+005F | Low Line               | Underscore |
-|`=+` | +      | U+002B | Plus Sign              |            |
-|`[{` | {      | U+007B | Left Curly Bracket     |            |
-|`]}` | }      | U+007D | Right Curly Bracket    |            |
-|`;:` | :      | U+003A | Colon                  |            |
+| 3   | £      | U+00A3 | Pound Sign             |                    |
+| 4   | $      | U+0024 | Dollar Sign            |                    |
+| 5   | %      | U+0025 | Percent Sign           |                    |
+| 6   | ^      | U+005E | Circumflex Accent      |                    |
+| 7   | &      | U+0026 | Ampersand              |                    |
+| 8   | *      | U+002A | Asterisk               |                    |
+| 9   | (      | U+0028 | Left Parenthesis       |                    |
+| 0   | )      | U+0029 | Right Parenthesis      |                    |
+| Q   | Q      | U+0051 | Latin Capital Letter Q |                    |
+| W   | W      | U+0057 | Latin Capital Letter W |                    |
+| E   | E      | U+0045 | Latin Capital Letter E |                    |
+| R   | R      | U+0052 | Latin Capital Letter R |                    |
+| T   | T      | U+0054 | Latin Capital Letter T |                    |
+| Y   | Y      | U+0059 | Latin Capital Letter Y |                    |
+| U   | U      | U+0055 | Latin Capital Letter U |                    |
+| I   | I      | U+0049 | Latin Capital Letter I |                    |
+| O   | O      | U+004F | Latin Capital Letter O |                    |
+| P   | P      | U+0050 | Latin Capital Letter P |                    |
+| A   | A      | U+0041 | Latin Capital Letter A |                    |
+| S   | S      | U+0053 | Latin Capital Letter S |                    |
+| D   | D      | U+0044 | Latin Capital Letter D |                    |
+| F   | F      | U+0046 | Latin Capital Letter F |                    |
+| G   | G      | U+0047 | Latin Capital Letter G |                    |
+| H   | H      | U+0048 | Latin Capital Letter H |                    |
+| J   | J      | U+004A | Latin Capital Letter J |                    |
+| K   | K      | U+004B | Latin Capital Letter K |                    |
+| L   | L      | U+004C | Latin Capital Letter L |                    |
+| Z   | Z      | U+005A | Latin Capital Letter Z |                    |
+| X   | X      | U+0058 | Latin Capital Letter X |                    |
+| C   | C      | U+0043 | Latin Capital Letter C |                    |
+| V   | V      | U+0056 | Latin Capital Letter V |                    |
+| B   | B      | U+0042 | Latin Capital Letter B |                    |
+| N   | N      | U+004E | Latin Capital Letter N |                    |
+| M   | M      | U+004D | Latin Capital Letter M |                    |
+|\`¬¦ | ¬      | U+00AC | Not Sign               |                    |
+|`-_` | _      | U+005F | Low Line               | Underscore         |
+|`=+` | +      | U+002B | Plus Sign              |                    |
+|`[{` | {      | U+007B | Left Curly Bracket     |                    |
+|`]}` | }      | U+007D | Right Curly Bracket    |                    |
+|`;:` | :      | U+003A | Colon                  |                    |
 |`'@` | @      | U+0040 | Commercial At          | Also on `AltrGr+Q` |
-|`#~` | ~      | U+007E | Tilde                  |            |
-|`\\|`|\|      | U+007C | Vertical Line          | Bar, Pipe  |
-|`,<` | <      | U+003C | Less-Than Sign         |            |
-|`.>` | >      | U+003E | Greater-Than Sign      |            |
-|`/?` | ?      | U+003F | Question Mark          |            |
+|`#~` | ~      | U+007E | Tilde                  |                    |
+|`\\|`|\|      | U+007C | Vertical Line          | Bar, Pipe          |
+|`,<` | <      | U+003C | Less-Than Sign         |                    |
+|`.>` | >      | U+003E | Greater-Than Sign      |                    |
+|`/?` | ?      | U+003F | Question Mark          |                    |
 
 ### AltGr layer (or, equivalently, Alt+Ctrl)
 
@@ -316,7 +316,6 @@ Tables
 
 | Key | Symbol | Number | Unicode name                               | Note    |
 |-----|--------|--------|--------------------------------------------|---------|
-|\`¬¦ | °      | U+00B0 | Degree Sign                                | Also on AltGr+D |
 | 1   | ₁      | U+2081 | Subscript One                              |         |
 | 2   | ₂      | U+2082 | Subscript Two                              |         |
 | 3   | ₃      | U+2083 | Subscript Three                            |         |
@@ -353,6 +352,7 @@ Tables
 | B   | β      | U+03B2 | Greek Small Letter Beta                    |         |
 | N   | ν      | U+03BD | Greek Small Letter Nu                      |         |
 | M   | σ      | U+03C3 | Greek Small Letter Sigma                   |         |
+|\`¬¦ | °      | U+00B0 | Degree Sign                                |         |
 |`-_` | ≈      | U+2248 | Almost Equal To                            |         |
 |`=+` | ≡      | U+2261 | Identical To                               |         |
 |`[{` | ‹      | U+2039 | Single Left-Pointing Angle Quotation Mark  | French quotation mark |
@@ -364,6 +364,7 @@ Tables
 |`,<` | ψ      | U+03C8 | Greek Small Letter Psi                     |         |
 |`.>` | ζ      | U+03B6 | Greek Small Letter Zeta                    |         |
 |`/?` | ξ      | U+03BE | Greek Small Letter Xi                      |         |
+
 
 License
 -------
